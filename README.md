@@ -7,11 +7,13 @@
 ![image](https://img.shields.io/badge/React.js-02569B?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 <!-- Socials -->
+<!--
 <p align="center">
    <kbd>
   <a href="https://www.linkedin.com/in/ansuman-das-tech/" title="LinkedIn - Ansuman Das"><img src="https://img.shields.io/badge/-Ansuman_Das-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   </kbd>
 </p>
+ -->
 
 <blockquote>
 
