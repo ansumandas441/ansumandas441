@@ -16,15 +16,11 @@
 
 <blockquote>
 
-I software engineer based in London UK. And I love writing code!
+I software engineer based in Bangalore India. And I love writing code!
   
-I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
+I am a passionate and innovative software developer with a keen interest in building scalable and efficient solutions. 
 
-I also enjoy attending ([and sometimes winning](https://notes.aliciasykes.com/p/0s5s3uOtKj)) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
-
-I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
-
-When I'm not at the keyboard, I like sports, astronomy and hanging out with friends.
+My journey in the world of programming began with a curiosity to explore how things work, and it has evolved into a commitment to creating robust applications that make a positive impact.
 
 </blockquote>
 <!--
