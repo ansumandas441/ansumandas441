@@ -19,7 +19,7 @@
 
 I software engineer based in Bangalore India. And I love writing code!
   
-I am a passionate and innovative software developer with a keen interest in building scalable and efficient solutions. 
+I have a keen interest in building scalable and efficient solutions. 
 
 My journey in the world of programming began with a curiosity to explore how things work, and it has evolved into a commitment to creating robust applications that make a positive impact.
 
