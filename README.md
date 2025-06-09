@@ -17,7 +17,7 @@
 
 <blockquote>
 
-I am a software engineer based in Bangalore India. And I love writing code!
+I am a humble man who loves writing code and thinking systems!
   
 I have a keen interest in building scalable and efficient solutions. 
 
